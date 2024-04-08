@@ -1,0 +1,107 @@
+What is QA
+	QA is a systematic approach implemented within the organization to ensure that the product or service meets the acceptance criteria defined by the cutomer or the stock holders. QA is a postive declaration on the service or porduct, it grantees that the product works with out any problem and  meets the specifed requirement and the expectations 
+
+
+Attributes of QA :
+	functionality, reliability, usability, efficiency, maintainability and protability.
+
+QA Components:
+	Quality Planning: This involves defining quality objectives, processes, and standards for the project. It includes establishing metrics and procedures to ensure that quality goals are met throughout the software development lifecycle.
+
+Quality Assurance Processes: SQA involves implementing processes and procedures to monitor and improve the development lifecycle. This includes activities such as code reviews, design reviews, inspections, and walkthroughs to identify defects and ensure adherence to quality standards.
+
+Quality Control: QC activities focus on testing and evaluating the software product to identify defects and ensure that it meets specified requirements. This includes various testing techniques such as unit testing, integration testing, system testing, and acceptance testing.
+
+Software Configuration Management: SQA also involves managing software configuration to ensure that changes to the software are controlled and documented. This includes version control, change management, and configuration identification to maintain the integrity and traceability of software components.
+
+Process Improvement: SQA includes continuous process improvement activities to enhance the efficiency and effectiveness of the software development lifecycle. This involves analyzing processes, identifying areas for improvement, and implementing changes to optimize quality and productivity.
+
+Training and Education: SQA includes providing training and education to software development teams to ensure that they have the necessary skills and knowledge to produce high-quality software products. This includes training on quality standards, processes, tools, and methodologies.
+
+Quality Metrics and Reporting: SQA involves defining and measuring quality metrics to assess the performance of the software development process and the quality of the software product. This includes collecting data, analyzing metrics, and reporting on quality-related activities to stakeholders.
+
+Documentation: SQA includes creating and maintaining documentation related to quality standards, processes, procedures, and test plans. This ensures that quality-related information is documented and accessible to the project team and stakeholders.
+
+
+Software Quality Assurance Tools:
+	Infrastructure
+Release Management
+Source Control
+Code Reviews
+Automates Code Analysis
+Peer Code Reviews
+Testing
+Test management
+Bug and Issue Tracking
+Browser, Device and OS Testing
+Usability Testing
+Load Testing
+Automates Testing and Continuous Integration
+Monitoring and Analytics
+Availability Monitoring
+Business Analytics
+Exception Handling
+Log Monitoring
+Performance Monitoring
+Security Testing and Monitoring
+Customer Support
+
+PDCA :
+	PDCA, or Plan-Do-Check-Act, is a four-step method for continuous improvement in processes and systems. Also known as the Deming Cycle, named after Dr. W. Edwards Deming, each step plays a role in driving improvement:
+
+Plan: Establish objectives, identify improvement opportunities, and develop plans.
+
+Do: Implement the plan, execute processes, and collect data.
+
+Check: Monitor and evaluate results against objectives, identify variances, and analyze root causes.
+
+Act: Take corrective actions, adjust plans, modify processes, and enhance performance.
+
+
+
+
+Pre-project Plan: This component involves defining quality goals, strategies, and plans before the start of a software development project. It includes activities such as:
+
+Establishing quality objectives and criteria.
+Defining the scope and expectations of the SQA process.
+Identifying the resources, tools, and methodologies to be used for quality assurance.
+Planning for risk management and mitigation strategies.
+Project Life Cycle: SQA activities are integrated into the software development life cycle (SDLC) to ensure quality at every stage. This includes:
+
+Requirements analysis: Ensuring that requirements are clear, complete, and consistent.
+Design: Reviewing design documents to ensure they meet quality standards and are feasible for implementation.
+Development: Conducting code reviews, unit testing, and integration testing to identify and fix defects early in the development process.
+Testing: Executing comprehensive testing strategies (e.g., functional testing, regression testing, performance testing) to verify that the software meets specified requirements.
+Deployment: Ensuring smooth deployment and monitoring of the software in the production environment.
+Infrastructure Error Prevention and Improvement Components: This involves implementing measures to prevent errors in the software development infrastructure and continuously improve the development process. It includes:
+
+Configuration management: Managing changes to software artifacts, such as code, documents, and configurations, to prevent errors and ensure consistency.
+Process improvement: Identifying areas for improvement in the software development process and implementing measures to enhance efficiency, productivity, and quality.
+Tooling: Selecting and utilizing tools and technologies that aid in error prevention, detection, and correction throughout the development life cycle.
+Software Quality Management Components: This component involves activities related to managing and overseeing the SQA process. It includes:
+
+Establishing quality policies, standards, and guidelines.
+Defining roles and responsibilities for quality assurance activities.
+Conducting regular audits and reviews to assess adherence to quality standards and identify areas for improvement.
+Implementing corrective and preventive actions to address non-conformities and improve the quality management system.
+Standardization, Certification, and SQA Assessment Components: This involves adhering to industry standards and certifications, as well as conducting assessments of SQA processes. It includes:
+
+Compliance with relevant standards (e.g., ISO 9001, CMMI) to ensure consistent and standardized quality practices.
+Obtaining certifications that validate the organization's adherence to quality standards and best practices.
+Conducting assessments and evaluations of SQA processes to identify strengths, weaknesses, and areas for improvement.
+Organizing of Software Quality Assurance: This component involves organizing the SQA function within the organization, including:
+
+Establishing a dedicated SQA team or department responsible for overseeing quality assurance activities.
+Defining reporting structures and communication channels for SQA activities.
+Providing training and professional development opportunities for SQA personnel.
+Integrating SQA activities with other functional areas of the organization, such as development, testing, and project management
+
+
+
+hello world program 
+
+public class Main{
+
+public static void main(String args[]){
+system.out.println("hello world");
+}}
