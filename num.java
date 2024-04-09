@@ -12,7 +12,7 @@ if(false_palin){
 System.out.println(name+"is palindrome");
 }
 else{
-
+// *******************************************
 System.out.println(name+"is not palindromec");}
 
 System.out.println("starting with reversing the string");
@@ -22,5 +22,16 @@ reverse+=full_name.charAt(i);
 
 }System.out.println(full_name+"before reversing");
 System.out.println(reverse+"after reversing");
+// *******************************************
+System.out.println("fibonacci series");
+int a=0,b=1,c,num=9	;
+for(int i=0;i<=num;i++){
+System.out.println(a+"");
+c=a+b;
+a=b;
+b=c;
+
+}
+
 }
 }
