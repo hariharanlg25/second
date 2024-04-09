@@ -48,6 +48,6 @@ dummy=first;
 first=second;
 second=dummy;
 System.out.println(first+"after"+second+"after");
-
+System.out.println("nothing");
 }
 }
