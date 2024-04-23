@@ -39,6 +39,15 @@ http response code
 408: request time out
 409: conflict
 410: gone
+411: length required
+412: precondition failed
+413: payload too large
+414: URI too long
+415: unsupported media type
+416: range not satisfied
+417: expectation failed
+418: im  a teapot
+
 
 5xx http response code
 500:internal server error 
