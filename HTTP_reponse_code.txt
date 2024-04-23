@@ -47,7 +47,7 @@ http response code
 416: range not satisfied
 417: expectation failed
 418: im  a teapot
-420:
+
 
 5xx http response code
 500:internal server error 
