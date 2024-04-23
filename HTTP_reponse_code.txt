@@ -1,0 +1,7 @@
+Http response code
+1xx versions:
+100:continuous
+101:switching protocols
+102:processing
+103:early hints.
+

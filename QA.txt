@@ -105,3 +105,15 @@ public class Main{
 public static void main(String args[]){
 system.out.println("hello world");
 }}
+
+the methodologies of Software Quality Assurance are:
+V model
+Waterfall model
+agile model
+scrum
+kanban
+lean development
+devops
+continuous integration and continuous deployment
+test driven development
+behavior driver development
