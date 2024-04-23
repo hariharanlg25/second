@@ -102,6 +102,11 @@ break;
 }
 }
 if(primer){
-System.out.println("prime number"+prime);}else{System.out.println("not a prime number "+prime);}
+System.out.println("prime number"+prime);
+}
+else{
+	System.out.println("not a prime number "+prime);
+}
+
 }
 }
