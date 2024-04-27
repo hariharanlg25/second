@@ -1,7 +1,7 @@
 http response code
 1xx series 
 100:continue
-101:switching 
+101:switching protocols
 102:processing
 103:early hint
 
@@ -28,7 +28,7 @@ http response code
 308:permanent redirect
 
 4xx http response code
-400: 
+400: bad request
 401: unauthorized
 402: payment required
 403: forbidden
@@ -47,7 +47,15 @@ http response code
 416: range not satisfied
 417: expectation failed
 418: im  a teapot
-
+421: misdirected request
+422: unprocessibale
+423: locked
+424: dependency failed 
+425: too early
+426: upgrade required 
+428: precondition required
+431:request header field is too large
+451:unavailable for legal reason
 
 5xx http response code
 500:internal server error 
