@@ -1,10 +1,29 @@
 What is QA
 	QA is a systematic approach implemented within the organization to ensure that the product or service meets the acceptance criteria defined by the cutomer or the stock holders. QA is a postive declaration on the service or porduct, it grantees that the product works with out any problem and  meets the specifed requirement and the expectations 
+ 
 
+Definition: Software Quality Assurance (SQA) is a systematic process to ensure that software meets specified requirements and standards. 
+
+Objective: The primary goal of SQA is to provide confidence in the quality of software products. 
+
+Continuous Improvement: SQA involves continuous improvement throughout the software development life cycle. 
+===================================================================================================================================================================
 
 Attributes of QA :
 	functionality, reliability, usability, efficiency, maintainability and protability.
+===================================================================================================================================================================
+Importance of SQA in the Software Development Process: 
 
+ 
+
+Early Detection of Defects: SQA helps in early detection and resolution of defects, which reduces the cost of fixing defects later in the software development process. 
+
+Compliance with Standards: SQA ensures that software products comply with specified requirements, standards, and procedures. 
+
+Enhanced Customer Satisfaction: By ensuring high quality, SQA contributes to enhanced customer satisfaction and trust in the software product. 
+
+Risk Management: SQA helps in identifying and managing risks associated with software development and ensures that the software is reliable, efficient, and secure. 
+===================================================================================================================================================================
 QA Components:
 	Quality Planning: This involves defining quality objectives, processes, and standards for the project. It includes establishing metrics and procedures to ensure that quality goals are met throughout the software development lifecycle.
 
@@ -22,7 +41,7 @@ Quality Metrics and Reporting: SQA involves defining and measuring quality metri
 
 Documentation: SQA includes creating and maintaining documentation related to quality standards, processes, procedures, and test plans. This ensures that quality-related information is documented and accessible to the project team and stakeholders.
 
-
+===================================================================================================================================================================
 Software Quality Assurance Tools:
 	Infrastructure
 Release Management
@@ -45,7 +64,7 @@ Log Monitoring
 Performance Monitoring
 Security Testing and Monitoring
 Customer Support
-
+===================================================================================================================================================================
 PDCA :
 	PDCA, or Plan-Do-Check-Act, is a four-step method for continuous improvement in processes and systems. Also known as the Deming Cycle, named after Dr. W. Edwards Deming, each step plays a role in driving improvement:
 
@@ -96,12 +115,37 @@ Defining reporting structures and communication channels for SQA activities.
 Providing training and professional development opportunities for SQA personnel.
 Integrating SQA activities with other functional areas of the organization, such as development, testing, and project management
 
+===================================================================================================================================================================
+Requirements Validation: SQA ensures that software requirements are clear, complete, and testable. 
 
+Quality Control: SQA performs quality control activities throughout the software development life cycle to ensure that the software meets specified requirements and standards. 
 
-hello world program 
+Verification and Validation: SQA verifies that the software is being built according to the requirements and validates that the software meets the customer's needs. 
 
-public class Main{
+========================================================================= 
 
-public static void main(String args[]){
-system.out.println("hello world");
-}}
+ 
+
+Where SQA Activities Fit into Each Stage of SDLC: 
+
+Requirements Phase: 
+
+SQA activities include reviewing and validating requirements to ensure they are clear, complete, and testable. 
+
+Design Phase: 
+
+SQA activities involve reviewing design documents to ensure they meet specified requirements and standards. 
+
+Development Phase: 
+
+SQA activities include code reviews, unit testing, and static code analysis to ensure that the code meets specified requirements and standards. 
+
+Testing Phase: 
+
+SQA activities involve test planning, test case development, test execution, and defect tracking to ensure that the software meets specified requirements and standards. 
+
+Deployment and Maintenance Phase: 
+
+SQA activities include monitoring and evaluating the software in the production environment to ensure that it continues to meet specified requirements and standards. 
+
+========================================================================= 
