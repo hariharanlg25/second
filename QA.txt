@@ -149,3 +149,30 @@ Deployment and Maintenance Phase:
 SQA activities include monitoring and evaluating the software in the production environment to ensure that it continues to meet specified requirements and standards. 
 
 ========================================================================= 
+ 
+
+ 
+
+Various Quality Assurance Processes and Methodologies: 
+
+Quality Planning: Establishing the objectives and processes for quality and defining the means to achieve them. 
+
+Quality Control: Monitoring and verifying that products and processes meet specified requirements and standards. 
+
+Quality Improvement: Continuously improving processes to enhance the quality of software products. 
+
+========================================================================= 
+
+ 
+
+Best Practices for SQA: 
+
+Early Testing: Start testing as early as possible in the software development life cycle to detect defects early. 
+
+Continuous Integration: Integrate code changes frequently and automate the build and test processes to ensure that defects are detected early. 
+
+Risk-based Testing: Prioritize testing activities based on the risk associated with different areas of the software. 
+
+Defect Prevention: Implement measures to prevent defects from occurring in the first place rather than just detecting and fixing them. 
+
+Metrics and Measurement: Use metrics to measure the effectiveness of SQA activities and identify areas for improvement. 
