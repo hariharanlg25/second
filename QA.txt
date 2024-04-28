@@ -174,5 +174,3 @@ Continuous Integration: Integrate code changes frequently and automate the build
 Risk-based Testing: Prioritize testing activities based on the risk associated with different areas of the software. 
 
 Defect Prevention: Implement measures to prevent defects from occurring in the first place rather than just detecting and fixing them. 
-
-Metrics and Measurement: Use metrics to measure the effectiveness of SQA activities and identify areas for improvement. 

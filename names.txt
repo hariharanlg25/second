@@ -1,0 +1,3 @@
+hello this is to inform that im building a txt file using touch command and gonna view the content of this file by using cat file.txt command
+"now gonna remove the typing content within this double quotes " now lets add on some more information into this
+now have to add some more data 
